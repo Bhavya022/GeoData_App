@@ -84,7 +84,7 @@ markdown
 git clone <github.com/Bhavya022/GeoData_App>
 
 css
-Copy code
+
 
 2. Navigate to the project directory:
 
