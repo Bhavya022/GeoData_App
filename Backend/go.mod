@@ -1,4 +1,4 @@
-module github.com/Bhavya022/GeoData_App
+module github.com/Bhavya022/GeoData_App/Backend
 
 go 1.22.1
 
